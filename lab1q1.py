@@ -1,0 +1,7 @@
+user_data=input("10")
+bana_int=int(user_data)
+bana_float=float(user_data)
+bana_bool=bool(user_data)
+print("integer valu:", bana_int,"| type:", type(bana_int))
+print("float valu:", bana_float,"|type:",type(bana_float))
+print("boolean value:",bana_bool,"|type:",type(bana_bool))
