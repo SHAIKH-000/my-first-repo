@@ -1,5 +1,0 @@
-point_num=float(input("5.57:"))
-poora_name=int(point_num)
-print("pehle wala(float value):",point_num)
-print("baddla hua (integer value):",poora_name)
-print("farq kiya he?: int()lagane se point ke baad ke sare hissa gayab hojata hd !")
